@@ -50,6 +50,15 @@ Conference Version:
   pages={1--8},
   year={2025}
 }
+
+@data{bbfq-kg28-26,
+  doi = {10.21227/bbfq-kg28},
+  url = {https://dx.doi.org/10.21227/bbfq-kg28},
+  author = {Suresh Nehra and Aupendu Kar and Jayanta Mukhopadhyay and Prabir Kumar Biswas},
+  publisher = {IEEE Dataport},
+  title = {Light-Field Dataset for Disparity Based Depth Estimation},
+  year = {2026}
+}
 ```
 
 ArXiv version:
