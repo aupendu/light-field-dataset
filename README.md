@@ -41,7 +41,6 @@ Google Drive: [Click Here](https://drive.google.com/file/d/1xmQHv_vkJ0uiyPdMw6mX
 
 If you use this dataset in your research, please cite our paper:
 
-Conference Version:
 ```
 @inproceedings{nehra2025light,
   title={Light-Field Dataset for Disparity Based Depth Estimation},
